@@ -25,6 +25,6 @@ public class E01_WelcomeToJava {
     public static void main(String[] args) throws IOException {
     
         System.out.println("Hello, World.");
-        System.out.println("Hellom Java.");
+        System.out.println("Hello, Java.");
     }
  }
