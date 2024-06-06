@@ -46,7 +46,7 @@ Sample Output
 import java.io.IOException;
 import java.util.Scanner;
  public class E02_JavaStdinAndStdoutI {
-    public static void maind(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
 
         int number1 = scan.nextInt();
